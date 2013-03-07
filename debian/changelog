@@ -1,3 +1,9 @@
+facter (1.6.11-0.1rc1puppetlabs2) UNRELEASED; urgency=low
+
+  * (#8210) Add virt-what as a dependency.
+
+ -- Franz Pletz <fpletz@fnordicwalking.de>  Thu, 07 Mar 2013 22:52:03 +0100
+
 facter (1.6.11-0.1rc1puppetlabs1) hardy lucid maverick natty oneiric unstable lenny sid wheezy lucid squeeze precise; urgency=low
 
   * Imported Upstream versirn 1.6.11rc1
